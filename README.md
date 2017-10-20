@@ -1,6 +1,6 @@
 # A host-based firewall
 
-There are three main files of this project:
+There are three main files in this project:
 
 * Firewall.java (implementation of main logic)
 * TestProgram.java (driver program for testing the implementation)
@@ -20,7 +20,7 @@ There are three main files of this project:
 * false
 * false
 
-#Interest 
+# Interest 
 
 I am interested in all teams. However, I have provided my choice in terms of ranking:
 
